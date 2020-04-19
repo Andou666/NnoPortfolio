@@ -26,6 +26,7 @@
 - 作った作品
   - [高浜虚子の俳句](https://andou666.github.io/haiku/haiku)
   - [自己紹介ページ](https://andou666.github.io/NnoJikosyoukai/self-introduction)
+  - [あなたのいいところ診断](https://andou666.github.io/assessment/assessment.html)
   - [Open Processing](https://www.openprocessing.org/sketch/859885)
 
 # Contact
