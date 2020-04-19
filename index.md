@@ -25,6 +25,7 @@
 - [Qiita](https://qiita.com/a_inujini)
 - 作った作品
   - [高浜虚子の俳句](https://andou666.github.io/haiku/haiku)
+  - [自己紹介ページ](https://andou666.github.io/NnoJikosyoukai/self-introduction)
   - [Open Processing](https://www.openprocessing.org/sketch/859885)
 
 # Contact
